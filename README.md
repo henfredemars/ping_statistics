@@ -11,11 +11,11 @@ Install and Useage
    virtualenv env
    ```
 
-  1. Activate virtual environment.
+1. (Optional) Activate virtual environment.
 
-     ```
-     source env/bin/activate
-     ```
+   ```
+   source env/bin/activate
+   ```
 
 1. Install dependent packages.
 
