@@ -1,7 +1,7 @@
 # ping_statistics
 Simple tool to record and display median ping over time.
 
-Install and Useage
+Installation and Usage
 ------------------
 
 1. Clone the repository.
