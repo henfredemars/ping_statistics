@@ -1,0 +1,2 @@
+aioping==0.1.0
+async-timeout==2.0.0
