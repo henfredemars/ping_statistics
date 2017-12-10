@@ -7,21 +7,29 @@ Install and Useage
 1. Clone the repository.
 1. (Optional) Create a virtual env to hold your python installation.
 
-	```virtualenv env```
+   ```
+   virtualenv env
+   ```
 
   1. Activate virtual environment.
 
-  ```source env/bin/activate```
+     ```
+     source env/bin/activate
+     ```
 
 1. Install dependent packages.
 
-  ```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
 
 1. Add hosts to query by editing the hosts.json file.
 1. Edit the settings.json file as you see fit.
 1. Run the program.
 
-  ```python main.py```
+   ```
+   python main.py
+   ```
 
 You will find statics saved in stats.json. Do with these as you wish!
 
